@@ -46,8 +46,8 @@
  **To Change Column's Data					
  `update t1 SET name='test' where age=20;              `
 
- **Some Operation Mysql**
-* Union - Operation to fetch common output between two queries. but the number of columns and the data type of column's must be same to the both side of UNION
+ **Mysql Operations**
+* **Union** - Operation to fetch common output between two queries. but the number of columns and the data type of column's must be same to the both side of UNION
   `select name,age from t1 union select nickname, id from t2;`
 
 
