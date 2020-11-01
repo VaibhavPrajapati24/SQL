@@ -4,7 +4,7 @@
 
 <h2>Basic Commands Mysql</h2>
 
- **To Create Database**     `create database d1;`	       
+ **To Create Database**     `**create database d1;**`	       
 
 
 
