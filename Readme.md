@@ -11,8 +11,17 @@
      `show database;`	
 
 
-  **To Use Database**
+
+
+
+
+
+
+   **To Use Database** 
      `use database-name;`   
+
+
+
 
    **To Delete Database**
                 `drop database d1;`
