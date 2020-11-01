@@ -17,7 +17,7 @@
  `drop database d1;`
 	
   **To Create Table With Column name, age Respectively Data Type char, int**	
-     
+    
 `create table t1(name char(20), age int );` 
 
     
@@ -31,13 +31,13 @@
  **TO DELETE ALL STORED DATA IN TABLE**		
    `delete from t1;`   
 
- **TO DELETE TABLE**        
+ **To Delete Table**        
    `drop table  t1, t2;`	
 
- **TO ADD NEW COLUMN IN TABLE**       
+ **To Add New Column In Table**       
    `alter table t1 add Column-Name char(20);`
 
- **TO DELETE COLUMN IN TABLE**		
+ **TO Delete Column In Table**		
    `alter table t1 drop Column-Name;`		
 
 
