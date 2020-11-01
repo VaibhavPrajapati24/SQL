@@ -1,1 +1,3 @@
-<h1>haj</h1>
+<h1>Basic Mysql Commands</h1>
+show databases;
+ 
