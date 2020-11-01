@@ -21,14 +21,14 @@
 `create table t1(name char(20), age int );` 
 
     
- **TO INSERT VALUES INTO TABLE**
+ **To Insert Value In Table**
 
 `insert t1 values("name",20);` 	
   
- **TO SHOW TABLES**
+ **To Show Tables**
    `show tables;`	
 
- **TO DELETE ALL STORED DATA IN TABLE**		
+ **To Delete All Stored Data In Table**		
    `delete from t1;`   
 
  **To Delete Table**        
