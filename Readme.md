@@ -25,8 +25,8 @@
  **To Show Tables**.      
   `show tables;`	
 
- **To Delete All Stored Data In Table**	                       	
-   `delete from t1;`   
+ **To Delete All Stored Data In Table**	                                                                                	                      
+  `delete from t1;`   
 
  **To Delete Table**               
    `drop table  t1, t2;`	
