@@ -1,4 +1,4 @@
-<h3>asic Mysql Commands</h3>
+<h3>Basic Mysql Commands</h3>
 
-**`show databases;` -: TO SHOW ALL DATABASES**
+`show databases;` -: TO SHOW ALL DATABASES**
  
