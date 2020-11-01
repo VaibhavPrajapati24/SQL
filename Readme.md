@@ -47,7 +47,8 @@
  `update t1 SET name='test' where age=20;              `
 
 <h3>Mysql Operations</h3>
- **Union** - Operation to fetch common output between two queries. but the number of columns and the data type of column's must be same to the both side of UNION
+ **Union**  
+- Operation to fetch common output between two queries. but the number of columns and the data type of column's must be same to the both side of UNION
   `select name,age from t1 union select nickname, id from t2;`
 
 
