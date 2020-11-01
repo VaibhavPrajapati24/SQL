@@ -1,7 +1,4 @@
-
-						<h1>SQL</h1>
-
-
+<h1>SQL</h1>
 <h2>Basic Commands Mysql</h2>
 
  **To Create Database**   
@@ -38,7 +35,7 @@
    `alter table t1 drop Column-Name;`		
 
 
-<h3>Advance Commmands Mysql</h3>
+<h2>Advance Commmands Mysql</h2>
 
  **To Set Or Reset Password**                  
  `set password for user@localhost=password('password');` 
@@ -49,7 +46,7 @@
  **To Change Column's Data**	                                                                                                                                                                                                                                                                                                                                                                                                                              				                           
   `update t1 SET name='test' where age=20;`
 
-<h3>Mysql Operations</h3>
+<h2>Mysql Operations</h2>
 
  **Union** - Operation to fetch common output between two queries. but the number of columns and the data type of column's must be same to the both side of UNION
   
