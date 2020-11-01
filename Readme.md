@@ -6,8 +6,9 @@
 
  **To Create Database**   
     `create database d1;`	   
- **TO SHOW ALL DATABASES
-    `show database;`		
+ **TO SHOW ALL DATABASES**
+    `show database;`	
+	
 `use database-name;`    		**TO USE DATABASE
 `drop database d1;`		**TO DELETE DATABASE
 `create table t1(name char(20), age int );`**TO CREATE TABLE WHERE name, age IS COLUMN RESPECTED DATA TYPE char, int 
