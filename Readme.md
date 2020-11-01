@@ -40,10 +40,15 @@
 
 <h3>Advance Commmands Mysql</h3>
  **To Set Or Reset Password**
+
  `set password for user@localhost=password('password');` 
+
  **To Make Changes Publicaly Of Database's Data**
+
  `commit;`	
- **To Change Column's Data					
+
+ **To Change Column's Data	
+				
  `update t1 SET name='test' where age=20;              `
 
 <h3>Mysql Operations</h3>
