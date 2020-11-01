@@ -1,4 +1,3 @@
-<h1>SQL</h1>
 <h2>Basic Commands Mysql</h2>
 
  **To Create Database**   
