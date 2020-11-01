@@ -39,11 +39,14 @@
 
 
 <h3>Advance Commmands Mysql</h3>
-`set password for user@localhost=password('password');` **TO SET OR RESET PASSWORD
-`commit;`						**TO MAKE CHANGES PUBLICLY OF DATABASE'S DATA
-`update t1 SET name='test' where age=20;              ` **TO CHANGE DATA IN COLUMN
+ **To Set Or Reset Password**
+ `set password for user@localhost=password('password');` 
+ **To Make Changes Publicaly Of Database's Data**
+ `commit;`	
+ **To Change Column's Data					
+ `update t1 SET name='test' where age=20;              `
 
-**Some Operation Mysql**
+ **Some Operation Mysql**
 * Union - Operation to fetch common output between two queries. but the number of columns and the data type of column's must be same to the both side of UNION
   `select name,age from t1 union select nickname, id from t2;`
 
