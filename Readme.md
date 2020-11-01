@@ -1,3 +1,4 @@
 ###Basic Mysql Commands
-**show databases; -: TO SHOW ALL DATABASES**
+
+**`show databases;` -: TO SHOW ALL DATABASES**
  
