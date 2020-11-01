@@ -6,11 +6,9 @@
 
  **To Create Database**   
     `create database d1;`	   
- **To Show All Databases**
-
+ **To Show All Databases** 
     `show database;`	
  **To Use Database**
-
     `use database-name;`   
  **TO DELETE DATABASE**
     `drop database d1;`	
