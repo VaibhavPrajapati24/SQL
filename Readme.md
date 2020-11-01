@@ -6,10 +6,10 @@
 
  **To Create Database**   
     `create database d1;`	   
- **TO SHOW ALL DATABASES**
+ **To Show All Databases**
     `show database;`	
-	
-`use database-name;`    		**TO USE DATABASE
+ **TO USE DATABASE**
+  `use database-name;`    		
 `drop database d1;`		**TO DELETE DATABASE
 `create table t1(name char(20), age int );`**TO CREATE TABLE WHERE name, age IS COLUMN RESPECTED DATA TYPE char, int 
 `insert t1 values("name",20);` 	  	**TO INSERT VALUES INTO TABLE 
