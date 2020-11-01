@@ -1,3 +1,3 @@
-<h1>Basic Mysql Commands</h1>
-show databases;
+<h3>Basic Mysql Commands</h3>
+**show databases**; <mark>TO SHOW ALL DATABASES</mark>
  
