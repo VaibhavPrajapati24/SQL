@@ -37,8 +37,8 @@
  **To Add New Column In Table**       
    `alter table t1 add Column-Name char(20);`
 
- **TO Delete Column In Table**		
-   `alter table t1 drop Column-Name;`		
+ **To Delete Column In Table**		
+      `alter table t1 drop Column-Name;`		
 
 
 <h3>Advance Commmands Mysql</h3>
