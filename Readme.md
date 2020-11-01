@@ -17,11 +17,13 @@
  `drop database d1;`
 	
   **To Create Table With Column name, age Respectively Data Type char, int**	
-  `create table t1(name char(20), age int );` 
+     
+`create table t1(name char(20), age int );` 
 
     
  **TO INSERT VALUES INTO TABLE**
-    `insert t1 values("name",20);` 	
+
+`insert t1 values("name",20);` 	
   
  **TO SHOW TABLES**
    `show tables;`	
