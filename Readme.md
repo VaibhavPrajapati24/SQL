@@ -5,28 +5,27 @@
 <h2>Basic Commands Mysql</h2>
 
  **To Create Database**   
-    `create database d1;`	
+ `create database d1;`	
    
-  **To Show All Databases**     
+ **To Show All Databases**     
   `show database;`	
 
-  **To Use Database**   
+ **To Use Database**   
  `use database-name;`   
 
  **To Delete Database**  
  `drop database d1;`
 	
-  **To Create Table With Column name, age Respectively Data Type char, int**	         
-     `create table t1(name char(20), age int );` 
+ **To Create Table With Column name, age Respectively Data Type char, int**	         
+  `create table t1(name char(20), age int );` 
 
-    
  **To Insert Value In Table**           
-`insert t1 values("name",20);` 	
+  `insert t1 values("name",20);` 	
   
  **To Show Tables**.      
-   `show tables;`	
+  `show tables;`	
 
- **To Delete All Stored Data In Table**	         	
+ **To Delete All Stored Data In Table**	                       	
    `delete from t1;`   
 
  **To Delete Table**               
@@ -36,7 +35,7 @@
    `alter table t1 add Column-Name char(20);`
 
  **To Delete Column In Table**	             	   
-`alter table t1 drop Column-Name;`		
+   `alter table t1 drop Column-Name;`		
 
 
 <h3>Advance Commmands Mysql</h3>
