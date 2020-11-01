@@ -8,25 +8,17 @@
     `create database d1;`	
    
   **To Show All Databases**  
-     `show database;`	
+     
+  `show database;`	
+
+  **To Use Database** 
+     
+ `use database-name;`   
 
 
 
 
-
-
-
-
-     **To Use Database** 
-     `use database-name;`   
-
-
-
-
-   **To Delete Database**
-                `drop database d1;`
-	
-    
+   
 
 
 
