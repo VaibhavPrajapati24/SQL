@@ -3,7 +3,7 @@
 
 
 <h3>Basic Commands Mysql</h3>
-`create database d1;		          `	**TO CREATE DATABASE
+`create database d1; `	**TO CREATE DATABASE
 `show database; 			  `		**TO SHOW ALL DATABASES
 `use database-name;                       `    		**TO USE DATABASE
 `drop database d1;		       	  `		**TO DELETE DATABASE
