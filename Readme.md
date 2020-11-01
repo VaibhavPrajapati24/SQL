@@ -3,17 +3,17 @@
 
 
 <h3>Basic Commands Mysql</h3>
-`create database d1;`	**TO CREATE DATABASE
-`show database; 			  `		**TO SHOW ALL DATABASES
-`use database-name;                       `    		**TO USE DATABASE
-`drop database d1;		       	  `		**TO DELETE DATABASE
-`create table t1(name char(20), age int );`		**TO CREATE TABLE WHERE name, age IS COLUMN RESPECTED DATA TYPE char, int 
-`insert t1 values("name",20);             ` 	  	**TO INSERT VALUES INTO TABLE 
-`show tables;			       	  `		**TO SHOW TABLES	
-`delete from t1;                          `             **TO DELETE ALL STORED DATA IN TABLE
-`drop table  t1, t2;                      `	        **TO DELETE TABLE
-`alter table t1 add Column-Name char(20); `		**TO ADD NEW COLUMN IN TABLE
-`alter table t1 drop Column-Name;         `		**TO DELETE COLUMN IN TABLE
+`create database d1;`	       **TO CREATE DATABASE**
+`show database;`		**TO SHOW ALL DATABASES
+`use database-name;`    		**TO USE DATABASE
+`drop database d1;`		**TO DELETE DATABASE
+`create table t1(name char(20), age int );`**TO CREATE TABLE WHERE name, age IS COLUMN RESPECTED DATA TYPE char, int 
+`insert t1 values("name",20);` 	  	**TO INSERT VALUES INTO TABLE 
+`show tables;`		**TO SHOW TABLES	
+`delete from t1;`             **TO DELETE ALL STORED DATA IN TABLE
+`drop table  t1, t2;`	        **TO DELETE TABLE
+`alter table t1 add Column-Name char(20);`		**TO ADD NEW COLUMN IN TABLE
+`alter table t1 drop Column-Name;`		**TO DELETE COLUMN IN TABLE
 
 
 <h3>Advance Commmands Mysql</h3>
