@@ -16,28 +16,26 @@
  **To Delete Database**  
  `drop database d1;`
 	
-  **To Create Table With Column name, age Respectively Data Type char, int**	
-    
-`create table t1(name char(20), age int );` 
+  **To Create Table With Column name, age Respectively Data Type char, int**	         
+     `create table t1(name char(20), age int );` 
 
     
- **To Insert Value In Table**
-
+ **To Insert Value In Table**           
 `insert t1 values("name",20);` 	
   
- **To Show Tables**
+ **To Show Tables**.      
    `show tables;`	
 
- **To Delete All Stored Data In Table**		
+ **To Delete All Stored Data In Table**	         	
    `delete from t1;`   
 
- **To Delete Table**        
+ **To Delete Table**               
    `drop table  t1, t2;`	
 
- **To Add New Column In Table**       
+ **To Add New Column In Table**             
    `alter table t1 add Column-Name char(20);`
 
- **To Delete Column In Table**		
+ **To Delete Column In Table**	             	   
 `alter table t1 drop Column-Name;`		
 
 
